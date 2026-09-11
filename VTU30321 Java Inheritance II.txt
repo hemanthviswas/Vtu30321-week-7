@@ -1,0 +1,17 @@
+Java Inheritance II
+https://www.hackerrank.com/challenges/java-inheritance-2/problem
+Program:-
+class Arithmetic {
+    int add(int a, int b) {
+        return a + b;
+    }
+}
+
+class Adder extends Arithmetic {
+}
+Output:-
+Compiler Message
+Success
+Expected Output
+My superclass is: Arithmetic
+42 13 20
