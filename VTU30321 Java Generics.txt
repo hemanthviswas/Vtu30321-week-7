@@ -1,0 +1,21 @@
+Java Generics
+https://www.hackerrank.com/challenges/java-generics/problem
+Program:-
+public <T> void printArray(T[] array) {
+    for (T element : array) {
+        System.out.println(element);
+    }
+}
+Output:-
+Your Output (stdout)
+1
+2
+3
+Hello
+World
+Expected Output
+1
+2
+3
+Hello
+World
