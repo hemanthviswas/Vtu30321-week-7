@@ -1,0 +1,21 @@
+Java Inheritance I
+https://www.hackerrank.com/challenges/java-inheritance-1/problem
+Program:-
+class Bird extends Animal{
+    void fly(){
+        System.out.println("I am flying");
+    }
+
+    void sing(){
+        System.out.println("I am singing");
+    }
+}
+Output:-
+Your Output (stdout)
+I am walking
+I am flying
+I am singing
+Expected Output
+I am walking
+I am flying
+I am singing
